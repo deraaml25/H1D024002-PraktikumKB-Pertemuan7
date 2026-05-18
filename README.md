@@ -17,8 +17,8 @@ H1D024002_PraktikumKB_Pertemuan7/
 ```
 
 ### Cara Menjalankan
-1. Buka `main.ipynb` menggunakan Jupyter Notebook / Google Colab / Kaggle Notebook
-2. Pastikan file `iris.data` berada di folder yang sama dengan `main.ipynb`
+1. Buka `main1.ipynb` menggunakan Jupyter Notebook / Google Colab / Kaggle Notebook
+2. Pastikan file `iris.data` berada di folder yang sama dengan `main1.ipynb`
 3. Jalankan semua cell secara berurutan
 
 ### Arsitektur Model Neural Network
