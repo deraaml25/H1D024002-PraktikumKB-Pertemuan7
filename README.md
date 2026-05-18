@@ -10,8 +10,9 @@ Dataset **Iris** dari UCI Machine Learning Repository (file lokal `iris.data`)
 ### Struktur Folder
 ```
 H1D024002_PraktikumKB_Pertemuan7/
-├── main.ipynb
+├── main1.ipynb
 ├── iris.data
+├── main.py
 └── README.md
 ```
 
